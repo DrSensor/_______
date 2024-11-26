@@ -1,3 +1,4 @@
+// SPDX-LICENSE-IDENTIFIER: MIT
 export * from "./components"
 export * from "./Circuit"
 export * from "./hooks/use-rendered-circuit"
